@@ -158,17 +158,5 @@ konularında deneyim kazanılmıştır.
 
 **Damla Tatlıcan**
 
-Adli Bilişim Mühendisliği mezunu.
-
-İlgi alanları:
-
-* Artificial Intelligence
-* Deep Learning
-* Computer Vision
-* Machine Learning
-* Image Processing
-* Cybersecurity
-
----
 
 ⭐ Bu proje, uydu görüntülerinden GES alanlarının otomatik olarak tespit edilmesi üzerine gerçekleştirilmiş bir **derin öğrenme ve görüntü segmentasyonu çalışmasıdır.**
